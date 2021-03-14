@@ -2,7 +2,7 @@
 
 ## Baekjoon
 * [1874. 스택 수열](https://www.acmicpc.net/problem/1874)
-  * [새봄](spring/1874.cpp)
+  * [새봄 - C++](spring/1874.cpp)
 
 * [1138. 한줄로 서기](https://www.acmicpc.net/problem/1138)
   * [동주](Dongju/boj1138.cpp)
@@ -12,3 +12,5 @@
   
 * [14852. 타일채우기](https://www.acmicpc.net/problem/14852)
   * [동주](Dongju/boj14852_타일채우기3.cpp)
+  * [새봄 - Python](spring/14852.py)
+  * [새봄 - C++](spring/14852.cpp)
