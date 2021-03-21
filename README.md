@@ -12,3 +12,6 @@
   
 * [14852. 타일채우기](https://www.acmicpc.net/problem/14852)
   * [동주](Dongju/boj14852_타일채우기3.cpp)
+
+** [1966. 큐프린터](https://www.acmicpc.net/problem/1966)
+  * [동주](Dongju/boj1966_큐프린터.cpp)
