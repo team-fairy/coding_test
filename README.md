@@ -15,5 +15,7 @@
 
 * [1966. 큐프린터](https://www.acmicpc.net/problem/1966)
   * [동주](Dongju/boj1966_큐프린터.cpp)
+  * [재경](Jaegyeong/boj1966.py)
+
 * [6236. 용돈관리](https://www.acmicpc.net/problem/6236)
   * [동주](Dongju/boj6236_용돈관리.cpp)
