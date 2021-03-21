@@ -3,7 +3,7 @@ for _ in range(N):
     num, idx = map(int, input().split())
     arr = [int(oper) for oper in input().split()]
     answer = 0
-    # 1 2 3 4
+
     while arr:
         target = arr[0]
         if target == max(arr):
