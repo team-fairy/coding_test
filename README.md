@@ -33,4 +33,4 @@
 |[14852. 타일채우기](https://www.acmicpc.net/problem/14852)|-|[동주](Dongju/boj14852_타일채우기3.cpp)|-|-|-|
 |[1966. 프린터 큐](https://www.acmicpc.net/problem/1966)   |-|[동주](Dongju/boj1966_큐프린터.cpp)|[주남](JooNam/1966_Queue.py)|-|[재경](Jaegyeong/boj1966.py)|
 |[6236. 용돈관리](https://www.acmicpc.net/problem/6236)    |-|[동주](Dongju/boj6236_용돈관리.cpp)|[주남](JooNam/6236_withdraw.py)|-|-|
-|[1654. 랜선자르기](https://www.acmicpc.net/problem/1654)    |-||-|[주남](JooNam/1654_split_cable.py)|-|
+|[1654. 랜선자르기](https://www.acmicpc.net/problem/1654)    |-||-|[주남](JooNam/1654_split_cable.py)|-|-|
