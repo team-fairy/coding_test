@@ -1,6 +1,16 @@
-# Queue 구조 정리
+"""
+Queue printer
+beakjoon -1966
 
+input
+6 0
+/1/ 1 9 1 1 1 
 
+output
+5
+"""
+
+# iter view
 # 6 0
 # /1/ 1 9 1 1 1 
 
@@ -69,10 +79,6 @@ def l_pop_r_append(arr):
 l = 6
 idx = 0
 arr = [1,1,9,1,1,1]
-
-l = 4
-idx = 2
-arr = [1,2,3,4]
 
 print(solution(l,idx,arr))
 
