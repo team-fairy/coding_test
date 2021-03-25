@@ -1,6 +1,6 @@
 """
 랜선 자르기 
-beakjoon -1654
+baekjoon -1654
 
 input
 4 11
