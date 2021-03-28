@@ -1,6 +1,6 @@
 """
 Queue printer
-beakjoon -1966
+baekjoon -1966
 
 input
 6 0
