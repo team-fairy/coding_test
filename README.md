@@ -34,6 +34,14 @@
   * [새봄 - Python](spring/3216.py)
   * [주남](JooNam/3216_다운로드.py)
 
+* [1916. 최소비용 구하기](https://www.acmicpc.net/problem/1916)
+  * [새봄 - Python](spring/1916.py)
+
+* [9251. LCS](https://www.acmicpc.net/problem/9251)
+  * [새봄 - Python](spring/9251.py)
+
+* [2206. 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+  * [새봄 - C++](spring/2206.cpp)
 
 
 ## Baekjoon - table
