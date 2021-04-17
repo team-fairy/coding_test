@@ -46,5 +46,6 @@
 |[1966. 프린터 큐](https://www.acmicpc.net/problem/1966)   |-|[동주](Dongju/boj1966_큐프린터.cpp)|[주남](JooNam/1966_Queue.py)|-|[재경](Jaegyeong/boj1966.py)|
 |[6236. 용돈관리](https://www.acmicpc.net/problem/6236) |[새봄](spring/6236.py)|[동주](Dongju/boj6236_용돈관리.cpp)|[주남](JooNam/6236_withdraw.py)|-|-|
 |[1654. 랜선자르기](https://www.acmicpc.net/problem/1654) |-|-|[주남](JooNam/1654_split_cable.py)|-|-|
-|[2631. 줄세우기](https://www.acmicpc.net/problem/2631) |[새봄](spring/2631.cpp)|-|[주남](JooNam/2631_줄세우기.py)|-|-|
+|[2631. 줄세우기](https://www.acmicpc.net/problem/2631) |[새봄](spring/2631.cpp)|[동주](Dongju/boj2631_줄세우기.cpp)|[주남](JooNam/2631_줄세우기.py)|-|-|-|
 |[3216. 다운로드](https://www.acmicpc.net/problem/3216) |[새봄](spring/3216.py)|-|[주남](JooNam/3216_다운로드.py)|-|-|
+|[2140. 지뢰찾기](https://www.acmicpc.net/problem/2140)|:---:|[동주](Dongju/boj2140_지뢰찾기.cpp)|:---:|:---:|:---:|
