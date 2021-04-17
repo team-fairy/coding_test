@@ -36,7 +36,6 @@
 
 * [1916. 최소비용 구하기](https://www.acmicpc.net/problem/1916)
   * [새봄 - Python](spring/1916.py)
-  * [새봄 - C++](spring/1916.cpp)
 
 * [9251. LCS](https://www.acmicpc.net/problem/9251)
   * [새봄 - Python](spring/9251.py)
