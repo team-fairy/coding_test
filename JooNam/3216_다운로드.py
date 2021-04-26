@@ -54,7 +54,6 @@ def solution(play_time, download_time):
 
     for i in range(1,len(play_time)):
         gap = download_time[i]-rest_time
-        # print(gap)
         need_time += max(gap,0)
         rest_time = abs(min(gap,0))+play_time[i]
     print(need_time)
