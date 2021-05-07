@@ -61,4 +61,4 @@
 
 ## Basic Baekjoon - table
 |1292. 구현](https://www.acmicpc.net/problem/1292) |-|-|-|[준철](Jun/1292.py)|-|
-
+|1292. DP](https://www.acmicpc.net/problem/1015) |-|-|-|[준철](Jun/1015.py)|-|
